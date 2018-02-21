@@ -5,5 +5,6 @@ public class HelloWorld {
 		System.out.println("두루미");
 		System.out.println("세컨드에서작업중");
 		System.out.println("마스터에서작업중");
+		System.out.println("세컨드두루미");
 	}
 }
