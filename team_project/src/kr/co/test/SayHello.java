@@ -6,5 +6,6 @@ public class SayHello {
 		System.out.println("최강 두루미 부대");
 		System.out.println("push duplicated");
 		System.out.println("pull testing");
+		System.out.println("빙상 두루미 ");
 	}
 }
